@@ -1,0 +1,37 @@
+{
+  "apps": [
+    {
+      "id": "text-share",
+      "name": "Text Share",
+      "version": "1.0",
+      "category": "Productivity",
+      "description": "Simple text sharing between your phone and computer over the same Wi-Fi network.",
+      "icon": "icons/text-share.png",
+      "download": "",
+      "screenshots": [],
+      "releaseDate": "2026-10-08"
+    },
+    {
+      "id": "hls-player",
+      "name": "HLS Player",
+      "version": "1.0",
+      "category": "Media",
+      "description": "A simple player for HLS video streams.",
+      "icon": "icons/hls-player.png",
+      "download": "",
+      "screenshots": [],
+      "releaseDate": ""
+    },
+    {
+      "id": "my-quick-links",
+      "name": "My Quick Links",
+      "version": "1.0",
+      "category": "Productivity",
+      "description": "Keep your frequently used links organized and easy to access.",
+      "icon": "icons/my-quick-links.png",
+      "download": "",
+      "screenshots": [],
+      "releaseDate": ""
+    }
+  ]
+}
