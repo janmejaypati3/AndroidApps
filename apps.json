@@ -6,9 +6,9 @@
       "version": "1.0",
       "category": "Productivity",
       "description": "Simple text sharing between your phone and computer over the same Wi-Fi network.",
-      "icon": "icons/text-share.png",
+      "icon": "icons/no-image.png",
       "download": "",
-      "screenshots": [],
+      "screenshots": ["screenshots/no-screenshot.png"],
       "releaseDate": "2026-10-08"
     },
     {
@@ -17,9 +17,9 @@
       "version": "1.0",
       "category": "Media",
       "description": "A simple player for HLS video streams.",
-      "icon": "icons/hls-player.png",
+      "icon": "icons/no-image.png",
       "download": "",
-      "screenshots": [],
+      "screenshots": ["screenshots/no-screenshot.png"],
       "releaseDate": ""
     },
     {
@@ -28,9 +28,9 @@
       "version": "1.0",
       "category": "Productivity",
       "description": "Keep your frequently used links organized and easy to access.",
-      "icon": "icons/my-quick-links.png",
+      "icon": "icons/no-image.png",
       "download": "",
-      "screenshots": [],
+      "screenshots": ["screenshots/no-screenshot.png"],
       "releaseDate": ""
     }
   ]
